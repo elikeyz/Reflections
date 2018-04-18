@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It narrowed down the location of the anomalies and so I was able to easily
+    find the error.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It can help you to revert to an old version of the code that worked just
+    in case you run into some problems in later versions.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pro is that when you manually choose, you can decide when you have made
+    a logical change, and not automatically saving before one has been made or 
+    after more than one have been made. The con is that you might forget to 
+    save a commit when you have made a logical change and that can cause problems
+    later on.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows saving multiple files in one commit because it deals mainly with
+    stored code and often times, multiple code documents are linked and inter-
+    related so changes in one cause changes in the rest. Google Docs on the other
+    hand, is a general document repository so it does not have that feature.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The git log command displays all the saved commits of the target file or files
+    and it shows what changes were made in each file. The git diff command compares
+    two commits of the file and displays the lines of the file were changes were
+    made between the two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You feel more confident to make changes knowing that you could always revert
+    back to a previous commit that works in case you make a mistake or error in 
+    the process of making some changes in your code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For now, nothing.
