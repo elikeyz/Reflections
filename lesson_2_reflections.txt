@@ -12,6 +12,8 @@ The staging area is different from the working directory because the files in th
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+The staging area detects whenever any file in the commit has undergone any modifications since the last commit so that you can be aware that a logical change might have been made.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
