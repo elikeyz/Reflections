@@ -4,18 +4,24 @@ When you initialize a repository, a hidden .git folder is created which
 is responsible for storing all the commits made on the repository. You 
 need to do it in order to start making commits to the repository.
 
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 The staging area is different from the working directory because the files in the staging area can be added to a commit. It is also different from the repository because you can choose to drop files from the staging area before they get added to the commit. The staging area offers a middle ground where you can decide which files you want to add to the commit.
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
 The staging area detects whenever any file in the commit has undergone any modifications since the last commit so that you can be aware that a logical change might have been made.
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches help to keep your history organized by letting you know the history of your main changes and your experimental changes and other variations.
+
 
 How do the diagrams help you visualize the branch structure?
 
