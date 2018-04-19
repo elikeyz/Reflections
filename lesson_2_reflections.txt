@@ -25,6 +25,9 @@ Branches help to keep your history organized by letting you know the history of 
 
 How do the diagrams help you visualize the branch structure?
 
+The diagrams show a visual representation of all the branches as well as the commits that are reachable to each of them and also how they relate with each other.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
