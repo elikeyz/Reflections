@@ -31,5 +31,7 @@ The diagrams show a visual representation of all the branches as well as the com
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+When two branches are merged together, the changes made in both branches from the point where they got separated initially are combined into a new commit that bears the commits of both branches. We represent it the way we do because the commits from both branches get mixed into the new commit.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
