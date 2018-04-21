@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You make changes in a separate branch when you want to make some changes without directly affecting the main version of your work and you can make all the necessary changes to it before merging everything into your master branch. The benefit of using a separate branch is that you can safely make any changes without running the risk of ruining your work but it can be quite tedious to work with multiple branches.
