@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate by sharing copies of the repositories directly with my fellow collaborators who would then make the changes and I would have to compare theirs to mine. The easier part is being able to do it without having to use the command line or the various git commands. The harder part would be the comparison and figuring out whether any of the changes made would affect the workability of the initial project
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
